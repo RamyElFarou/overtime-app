@@ -1,1 +1,0 @@
-json.partial! "add_type_to_users/add_type_to_user", add_type_to_user: @add_type_to_user
