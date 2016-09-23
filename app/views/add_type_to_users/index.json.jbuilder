@@ -1,0 +1,1 @@
+json.array! @add_type_to_users, partial: 'add_type_to_users/add_type_to_user', as: :add_type_to_user

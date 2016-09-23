@@ -1,0 +1,2 @@
+module AddTypeToUsersHelper
+end
